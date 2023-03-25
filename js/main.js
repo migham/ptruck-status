@@ -10,7 +10,7 @@ async function GetJSON(url) {
 }
 
 async function main(){
-	data = await GetJSON("/data/log.json");
+	data = await GetJSON("./data/log.json");
 	const carTemplate = document.getElementById("daily-card");
 	const mainCards = document.getElementsByTagName('main');
 
