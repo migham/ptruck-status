@@ -1,0 +1,12 @@
+{
+	"Daily":[{
+			"modelo":"70-135",
+			"chapa":129837,
+			"ref":"1A",
+			"bateria":true,
+			"estado":"ok",
+			"combustible":15,
+			"detalles":"hola"
+		}
+	]
+}
